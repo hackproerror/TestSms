@@ -1,0 +1,59 @@
+Install bahan-bahan Termux
+*Channel YouTube: ERROR SYSTEM 404*
+Subscribe ya bro
+
+pkg update
+pkg upgrade
+pkg install unstable-repo
+pkg install x11-repo
+pkg install root-repo
+pkg install nano
+pkg install toilet
+pkg install cowsay
+pkg install figlet
+pkg install python
+pkg install python2
+pkg install python3
+pkg install lolcat
+pip install lolcat
+pip2 install lolcat
+pkg install requests
+pip install requests
+pip2 install requests
+pkg install curl
+pip install curl
+pip2 install curl
+pkg install nmap
+pkg install bs4
+pip install bs4
+pip2 install bs4
+pkg install openssh
+pkg install autossh
+pkg install php
+pkg install kona
+pkg install alpine
+pkg install busybox
+pkg install bzip2
+pkg install par2
+pkg install pick
+pkg install picolisp
+pkg install zip
+pkg install termux-tools
+pkg install mc
+pkg install mv
+pkg install mpv
+pkg install tsu
+pip2 install tsu
+pip install tsu
+pip2 install --upgrade pip
+pip install --upgrade pip
+pkg install tsu
+pip install tsu
+pip2 install tsu
+pkg install termcolor
+pip install termcolor
+pip2 install termcolor
+pkg install kona
+
+
+Untuk install bahan² agar tidak error Tambahan install dibawah ini pkg install ffmpeg
